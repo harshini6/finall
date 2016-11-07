@@ -13,11 +13,11 @@ You are here:<img src="images/13.png" width="20" height="15">
 }
 
 a.home:hover{color:blue;}
-a.product:hover{color:blue;}
-a.details:hover{color:green;}
+a.product:hover{color:black;}
+a.details:hover{color:black;}
 a.home
 {
-word-spacing:6 0px;
+word-spacing:7 0px;
 color:red;
 padding:70px 40px;
 text-align:center;
